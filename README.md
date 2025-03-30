@@ -1,10 +1,10 @@
 # Task report
-### Track 2: Quantization of Language models
+## Track 2: Quantization of Language models
 
 
-In this task, the quantization of the GPT2 to INT8 was performed. The GPTQ algorithm was used.
+###In this task, the quantization of the GPT2 to INT8 was performed. 
 
-RedPajama-Data-V2 was selected as the calibration dataset. The neural network was tested using lm-eval and BoolQ.
+The GPTQ algorithm was used. RedPajama-Data-V2 was selected as the calibration dataset. The neural network was tested using lm-eval and BoolQ.
 
 The metric values for the pre-trained GPT2
 
